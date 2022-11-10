@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Artem Iavorskyi @llNonlosoll
-- 👀 I’m interested in computer games, sport, travel
+- 👀 I’m interested in IT technologies, computer games, sport, travel
 - 🌱 I’m currently learning Italian, English, Full Stack Development
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me - just write me to email "wishmasterar@gmail.com"
